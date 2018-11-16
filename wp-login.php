@@ -53,7 +53,7 @@ if(typeof wpOnload=='function')wpOnload();
 </script>
 
 	<p id="backtoblog"><a href="https://jsbryce1.github.io/devdesign/">&larr; Back to Jared Bryce</a></p>
-		
+	<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://jsbryce1.github.io/devdesign/privacy-policy/">Privacy Policy</a></div>	
 	</div>
 
 	
