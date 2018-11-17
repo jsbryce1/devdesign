@@ -12,7 +12,11 @@
 <link rel='stylesheet' href='https://jsbryce1.github.io/devdesign/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.8' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="https://jsbryce1.github.io/devdesign/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-5.10.50-PM-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://jsbryce1.github.io/devdesign/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-5.10.50-PM-298x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://jsbryce1.github.io/devdesign/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-5.10.50-PM-298x300.png" />
+<meta name="msapplication-TileImage" content="https://jsbryce1.github.io/devdesign/wp-content/uploads/2018/11/Screen-Shot-2018-11-16-at-5.10.50-PM-360x360.png" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
