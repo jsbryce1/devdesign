@@ -1586,7 +1586,7 @@ Sat-Sun: Closed</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://facebook.com]]>/</wp:meta_value>
+			<wp:meta_value><![CDATA[https://facebook.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1641,7 +1641,7 @@ Sat-Sun: Closed</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://twitter.com]]>/</wp:meta_value>
+			<wp:meta_value><![CDATA[https://twitter.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1696,7 +1696,7 @@ Sat-Sun: Closed</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[http://instagram.com]]>/</wp:meta_value>
+			<wp:meta_value><![CDATA[http://instagram.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1751,7 +1751,7 @@ Sat-Sun: Closed</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-			<wp:meta_value><![CDATA[https://linkedin.com]]>/</wp:meta_value>
+			<wp:meta_value><![CDATA[https://linkedin.com]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
