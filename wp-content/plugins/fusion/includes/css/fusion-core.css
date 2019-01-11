@@ -16,12 +16,12 @@
 	font-family: 'Material Icons';
 	font-style: normal;
 	font-weight: 400;
-	src: url('http://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.eot'); /* For IE6-8 */
+	src: url('https://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.eot'); /* For IE6-8 */
 	src: local('Material Icons'),
 		local('MaterialIcons-Regular'),
-		url('http://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.woff2') format('woff2'),
-		url('http://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.woff') format('woff'),
-		url('http://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.ttf') format('truetype');
+		url('https://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.woff2') format('woff2'),
+		url('https://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.woff') format('woff'),
+		url('https://jsbryce1.github.io/devdesign/wp-content/plugins/fusion/includes/css/webfonts/MaterialIcons-Regular.ttf') format('truetype');
 }
 
 .material-icons {

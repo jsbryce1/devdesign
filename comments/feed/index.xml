@@ -8,7 +8,7 @@
 <channel>
 	<title>Comments for Jared Bryce</title>
 	<atom:link href="http://localhost/sego/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://jsbryce1.github.io/devdesign</link>
+	<link>https://jsbryce1.github.io/devdesign</link>
 	<description>Building the web around you</description>
 	<lastBuildDate>Fri, 11 Jan 2019 21:59:02 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
